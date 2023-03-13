@@ -1,5 +1,5 @@
 public class Lab {
-    /**
+ /**
      * TODO: Change this method so that it returns "Hello, world!"
      *
      * This method currently contains the line:
@@ -15,6 +15,7 @@ public class Lab {
      * @return "Hello, world!"
      */
     public String sayHello(){
-        return "change me";
+        return "Hello, world!";
+     }
     }
-}
+   
